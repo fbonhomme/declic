@@ -1,0 +1,344 @@
+[
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\1.webp",
+    "Name": "1.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\10.webp",
+    "Name": "10.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\11.webp",
+    "Name": "11.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\12.webp",
+    "Name": "12.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\13.webp",
+    "Name": "13.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\14.webp",
+    "Name": "14.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\15.webp",
+    "Name": "15.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\16.webp",
+    "Name": "16.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\17.webp",
+    "Name": "17.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\18.webp",
+    "Name": "18.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\2.webp",
+    "Name": "2.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\3.webp",
+    "Name": "3.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\4.webp",
+    "Name": "4.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\5.webp",
+    "Name": "5.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\6.webp",
+    "Name": "6.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\7.webp",
+    "Name": "7.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\8.webp",
+    "Name": "8.webp"
+  },
+  {
+    "Directory": {
+      "Name": "photos",
+      "Parent": "declic",
+      "Exists": true,
+      "Root": "C:\\",
+      "FullName": "C:\\data\\declic\\photos",
+      "Extension": "",
+      "CreationTime": "2017-11-29T17:43:32.1163696+01:00",
+      "CreationTimeUtc": "2017-11-29T16:43:32.1163696Z",
+      "LastAccessTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastAccessTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "LastWriteTime": "2017-11-29T18:27:03.1002587+01:00",
+      "LastWriteTimeUtc": "2017-11-29T17:27:03.1002587Z",
+      "Attributes": 16
+    },
+    "FullName": "C:\\data\\declic\\photos\\9.webp",
+    "Name": "9.webp"
+  }
+]
