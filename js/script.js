@@ -23,6 +23,3 @@ $("#btn3").on('click', (e) =>{
         sortie.html(data);
         })  
     })   
-  
-
-

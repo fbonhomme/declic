@@ -18,7 +18,7 @@
                 <div class="card-header card-title text-center">
                   <h3>Nos yeux sont sur Toi <span><input type="checkbox" name="my-checkbox" checked></span></h3>
                 </div>
-                <div id="chant2" class="card-body">
+                <div id="chant2" class="card-body text-white bg-secondary">
                   <div class="card-text container row">
                         <div class="col">
                             <h4>COUPLET 1</h4>
@@ -70,7 +70,7 @@
       </div>
       <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>  
       <script src="./js/bootstrap-switch.min.js"></script>
-      <script>$("[name='my-checkbox']").bootstrapSwitch();
+      <script>$("[name='my-checkbox']").bootstrapSwitch('state', false);
       $('input[name="my-checkbox"]').on('switchChange.bootstrapSwitch', function(event, state) {
           
               if(state===false){
@@ -79,7 +79,6 @@
                else{
                        $('#chant2').removeClass('text-white bg-secondary' )
                    }
-      
       });
       </script>
 </body>
