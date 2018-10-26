@@ -10,14 +10,15 @@
     }
     </style>
     <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
     <title>Document</title>
 </head>
 <body>
         <div class="card">
                 <div class="card-header card-title text-center">
-                  <h3>En Toi je sais qui je suis</h3>
+                  <h3>En Toi je sais qui je suis <span><input id="toggle-event1" type="checkbox" data-toggle="toggle" data-onstyle="warning" data-offstyle="info"></span></h3>
                 </div>
-                <div class="card-body">
+                <div id="chant" class="card-body">
                         <div class="card-text container row">
                                 <div class="col">
                                     <div>
@@ -85,6 +86,19 @@
                             </div>
                 </div>
               </div>
-
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>             
+<script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+<script>
+        $(function() {
+          $('#toggle-event1').change(function() {
+              if($(this).prop('checked')===true){
+                    $('#chant').addClass('text-white bg-secondary' )
+                    }
+                else{
+                    $('#chant').removeClass('text-white bg-secondary' )
+                }
+          })
+        })
+      </script>
 </body>
 </html>

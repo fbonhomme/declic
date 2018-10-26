@@ -10,14 +10,15 @@
     }
     </style>
     <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/bootstrap-switch.min.css" rel="stylesheet">
     <title>Document</title>
 </head>
 <body>
         <div class="card">
                 <div class="card-header card-title text-center">
-                  <h3>Ce Nom si merveilleux</h3>
+                  <h3>Ce Nom si merveilleux <span><input type="checkbox" name="my-checkbox" checked="false"></span></h3>
                 </div>
-                <div class="card-body ">
+                <div id="chant3" class="card-body ">
                         <div class="card-text container row">
                                 <div class="col">
                                     <div>
@@ -95,8 +96,21 @@
                                     </div>
                                 </div>
                             </div>
-                 
                 </div>
-              </div>   
+            </div> 
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>  
+<script src="./js/bootstrap-switch.min.js"></script>
+<script>$("[name='my-checkbox']").bootstrapSwitch();
+$('input[name="my-checkbox"]').on('switchChange.bootstrapSwitch', function(event, state) {
+    
+        if(state===false){
+                $('#chant3').addClass('text-white bg-secondary' )
+                    }
+         else{
+                 $('#chant3').removeClass('text-white bg-secondary' )
+             }
 
+});
+</script>
 </body>
+</html>
