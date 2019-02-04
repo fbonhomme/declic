@@ -22,4 +22,12 @@ $("#btn3").on('click', (e) =>{
         const sortie = $("#sortie")
         sortie.html(data);
         })  
-    })   
+    }) 
+
+$("#btn4").on('click', (e) =>{
+    e.preventDefault()
+    $.get("./LesOceans.html",(data) =>{
+        const sortie = $("#sortie")
+        sortie.html(data);
+        })  
+    })  
